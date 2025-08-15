@@ -218,4 +218,4 @@ roberta-base_ft/
 *.gif
 *.jsonl
 *.pth
-*.DS_Store
+.DS_Store
