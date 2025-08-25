@@ -207,8 +207,8 @@ marimo/_lsp/
 __marimo__/
 
 # Fine tuning
-bert-base-uncased_ft/
-roberta-base_ft/
+bert_ft/
+roberta_ft/
 
 # Common data files
 *.csv
